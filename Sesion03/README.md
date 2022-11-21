@@ -18,3 +18,18 @@ En este *work*: (1).-Se desarrollan pruebas a nivel componente e integración en
 - [ ] Implementación.
 - [ ] Video.
 
+### Configuración de las clases de prueba.
+1. Crear la clase PizzaOrden.java
+2. Crear la clase TestPizzaOrden.java con un método de prueba.
+
+~~~
+@Test
+public void testMethod() {
+	System.out.println("Testing Method");
+}
+~~~
+3. Con el cursor sobre @Test agregar la "TestNG Library"
+4. importar "test org.testng.annotations.Test"
+5. Ejecutar la clase como "TestNG Test" 
+
+
