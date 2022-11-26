@@ -4,6 +4,10 @@ Se revisó lo que es la **Agilidad**, su **manifiesto**, sus **valores** y sus *
 
 ### Postwork
 
+[Repositorio](https://github.com/matahj/WAppA) 
 
-
+1. Descripción de un proyecto
+2. Lista de prácticas ágiles a utilizar
+3. Justificación de prácticas ágiles a utilizar
+ 
 
