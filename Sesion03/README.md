@@ -9,13 +9,13 @@ En este *work*: (1).-Se desarrollan pruebas a nivel componente e integración en
 
 1. Se formulan algunas pruebas unitarias sobre la clase PizzaOrden.java utilizando el framework de pruebas TestNG en Eclipse.
 
-- [ ] Implementación.
+- [x] Implementación.
 - [ ] Video.
 
 
 2.-Se implementa un sistema de puntuación (clase SistemaLealtad.java) utilizando TestNG y TDD en Eclipse.
 
-- [ ] Implementación.
+- [x] Implementación.
 - [ ] Video.
 
 ### Configuración de las clases de prueba.
